@@ -3,7 +3,7 @@
     <title>Little Mitten Press</title>
     <link href="https://www.littlemittenpress.com/feed.xml" rel="self" />
     <link href="https://www.littlemittenpress.com" />
-    <updated>2022-06-27T17:39:30-04:00</updated>
+    <updated>2022-07-06T17:21:09-04:00</updated>
     <author>
         <name>Craig Macnaughton</name>
     </author>
@@ -92,7 +92,7 @@
         <id>https://www.littlemittenpress.com/26-bugs-an-incredible-insect-abc-2.html</id>
             <category term="Books"/>
 
-        <updated>2022-06-07T19:13:43-04:00</updated>
+        <updated>2022-07-06T17:21:09-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.littlemittenpress.com/media/posts/6/slide_rainforest_bg.jpg" alt="" />
@@ -134,6 +134,16 @@
     </figure>
     </div>
   </div>
+
+    <figure class="blockquote">
+      <blockquote>A great pick to learn alphabets and rainforest animals in a fun way.</blockquote>
+      <figcaption>Nothing But Picture Books Reviews</figcaption>
+    </figure>
+
+    <figure class="blockquote">
+      <blockquote>One of the best Alphabet books out there!</blockquote>
+      <figcaption>Holly (Amazon Reviewer)</figcaption>
+    </figure>
             ]]>
         </content>
     </entry>
