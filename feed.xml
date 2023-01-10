@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Little Mitten Press</title>
     <link href="https://www.littlemittenpress.com/feed.xml" rel="self" />
     <link href="https://www.littlemittenpress.com" />
@@ -29,7 +29,7 @@
 
     <figure class="post__image post__image--full">
       <a href="https://www.littlemittenpress.com/tags/books/">
-        <img loading="lazy" src="https://www.littlemittenpress.com/media/posts/8/Four-Book-Twitter-Banner.jpg" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://www.littlemittenpress.com/media/posts/8/responsive/Four-Book-Twitter-Banner-xs.jpg 384w ,https://www.littlemittenpress.com/media/posts/8/responsive/Four-Book-Twitter-Banner-sm.jpg 600w ,https://www.littlemittenpress.com/media/posts/8/responsive/Four-Book-Twitter-Banner-md.jpg 768w ,https://www.littlemittenpress.com/media/posts/8/responsive/Four-Book-Twitter-Banner-lg.jpg 1200w ,https://www.littlemittenpress.com/media/posts/8/responsive/Four-Book-Twitter-Banner-xl.jpg 1600w"  height="500" width="1500" alt="" />
+        <img loading="lazy" src="https://www.littlemittenpress.com/media/posts/8/Four-Book-Twitter-Banner.jpg" height="500" width="1500" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://www.littlemittenpress.com/media/posts/8/responsive/Four-Book-Twitter-Banner-xs.jpg 384w ,https://www.littlemittenpress.com/media/posts/8/responsive/Four-Book-Twitter-Banner-sm.jpg 600w ,https://www.littlemittenpress.com/media/posts/8/responsive/Four-Book-Twitter-Banner-md.jpg 768w ,https://www.littlemittenpress.com/media/posts/8/responsive/Four-Book-Twitter-Banner-lg.jpg 1200w ,https://www.littlemittenpress.com/media/posts/8/responsive/Four-Book-Twitter-Banner-xl.jpg 1600w">
       </a>
       
     </figure>
@@ -90,6 +90,7 @@
         </author>
         <link href="https://www.littlemittenpress.com/26-bugs-an-incredible-insect-abc-2.html"/>
         <id>https://www.littlemittenpress.com/26-bugs-an-incredible-insect-abc-2.html</id>
+        <media:content url="https://www.littlemittenpress.com/media/posts/6/slide_rainforest_bg.jpg" medium="image" />
             <category term="Books"/>
 
         <updated>2022-07-06T17:21:09-04:00</updated>
@@ -101,7 +102,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://www.littlemittenpress.com/media/posts/6/slide_rainforest_bg.jpg" alt="" />
+                    <p><img src="https://www.littlemittenpress.com/media/posts/6/slide_rainforest_bg.jpg" class="type:primaryImage" alt="" /></p>
                 
     <h1 id="r-is-for-rainforestsbra-brilliantly-biodiverse-alphabet">
       R is for Rainforests:<br>A Brilliantly Biodiverse Alphabet!
@@ -113,22 +114,22 @@
     <div class="gallery" data-columns="2">
       <figure class="gallery__item">
       <a href="https://www.littlemittenpress.com/media/posts/6/gallery/Rainforests-Mockup-Cover.jpg" data-size="1024x720">
-        <img loading="lazy" src="https://www.littlemittenpress.com/media/posts/6/gallery/Rainforests-Mockup-Cover-thumbnail.jpg" height="540" width="768" alt="" />
+        <img loading="lazy" src="https://www.littlemittenpress.com/media/posts/6/gallery/Rainforests-Mockup-Cover-thumbnail.jpg" height="540" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://www.littlemittenpress.com/media/posts/6/gallery/Rainforests-Mockup-Page01.jpg" data-size="1024x720">
-        <img loading="lazy" src="https://www.littlemittenpress.com/media/posts/6/gallery/Rainforests-Mockup-Page01-thumbnail.jpg" height="540" width="768" alt="" />
+        <img loading="lazy" src="https://www.littlemittenpress.com/media/posts/6/gallery/Rainforests-Mockup-Page01-thumbnail.jpg" height="540" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://www.littlemittenpress.com/media/posts/6/gallery/Rainforests-Mockup-Page02.jpg" data-size="1024x720">
-        <img loading="lazy" src="https://www.littlemittenpress.com/media/posts/6/gallery/Rainforests-Mockup-Page02-thumbnail.jpg" height="540" width="768" alt="" />
+        <img loading="lazy" src="https://www.littlemittenpress.com/media/posts/6/gallery/Rainforests-Mockup-Page02-thumbnail.jpg" height="540" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://www.littlemittenpress.com/media/posts/6/gallery/Rainforests-Mockup-Page03.jpg" data-size="1024x720">
-        <img loading="lazy" src="https://www.littlemittenpress.com/media/posts/6/gallery/Rainforests-Mockup-Page03-thumbnail.jpg" height="540" width="768" alt="" />
+        <img loading="lazy" src="https://www.littlemittenpress.com/media/posts/6/gallery/Rainforests-Mockup-Page03-thumbnail.jpg" height="540" width="768" alt="" >
       </a>
       
     </figure>
@@ -154,6 +155,7 @@
         </author>
         <link href="https://www.littlemittenpress.com/26-bugs-an-incredible-insect-abc.html"/>
         <id>https://www.littlemittenpress.com/26-bugs-an-incredible-insect-abc.html</id>
+        <media:content url="https://www.littlemittenpress.com/media/posts/5/slide_bugs_bg.jpg" medium="image" />
             <category term="Books"/>
 
         <updated>2022-06-07T17:39:31-04:00</updated>
@@ -165,7 +167,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://www.littlemittenpress.com/media/posts/5/slide_bugs_bg.jpg" alt="" />
+                    <p><img src="https://www.littlemittenpress.com/media/posts/5/slide_bugs_bg.jpg" class="type:primaryImage" alt="" /></p>
                 
     <h1 id="26-bugsbran-incredible-insect-abc">
       26 Bugs:<br>An Incredible Insect ABC!
@@ -178,22 +180,22 @@
     <div class="gallery" data-columns="2">
       <figure class="gallery__item">
       <a href="https://www.littlemittenpress.com/media/posts/5/gallery/Bugs-Mockup-Cover.jpg" data-size="1024x720">
-        <img loading="lazy" src="https://www.littlemittenpress.com/media/posts/5/gallery/Bugs-Mockup-Cover-thumbnail.jpg" height="540" width="768" alt="" />
+        <img loading="lazy" src="https://www.littlemittenpress.com/media/posts/5/gallery/Bugs-Mockup-Cover-thumbnail.jpg" height="540" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://www.littlemittenpress.com/media/posts/5/gallery/Bugs-Mockup-Page01.jpg" data-size="1024x720">
-        <img loading="lazy" src="https://www.littlemittenpress.com/media/posts/5/gallery/Bugs-Mockup-Page01-thumbnail.jpg" height="540" width="768" alt="" />
+        <img loading="lazy" src="https://www.littlemittenpress.com/media/posts/5/gallery/Bugs-Mockup-Page01-thumbnail.jpg" height="540" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://www.littlemittenpress.com/media/posts/5/gallery/Bugs-Mockup-Page02.jpg" data-size="1024x720">
-        <img loading="lazy" src="https://www.littlemittenpress.com/media/posts/5/gallery/Bugs-Mockup-Page02-thumbnail.jpg" height="540" width="768" alt="" />
+        <img loading="lazy" src="https://www.littlemittenpress.com/media/posts/5/gallery/Bugs-Mockup-Page02-thumbnail.jpg" height="540" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://www.littlemittenpress.com/media/posts/5/gallery/Bugs-Mockup-Page03.jpg" data-size="1024x720">
-        <img loading="lazy" src="https://www.littlemittenpress.com/media/posts/5/gallery/Bugs-Mockup-Page03-thumbnail.jpg" height="540" width="768" alt="" />
+        <img loading="lazy" src="https://www.littlemittenpress.com/media/posts/5/gallery/Bugs-Mockup-Page03-thumbnail.jpg" height="540" width="768" alt="" >
       </a>
       
     </figure>
@@ -217,6 +219,7 @@
         </author>
         <link href="https://www.littlemittenpress.com/a-b-sea-creatures-an-astonishing-aquatic-alphabet-2.html"/>
         <id>https://www.littlemittenpress.com/a-b-sea-creatures-an-astonishing-aquatic-alphabet-2.html</id>
+        <media:content url="https://www.littlemittenpress.com/media/posts/4/slide_birds_bg.jpg" medium="image" />
             <category term="Books"/>
 
         <updated>2022-06-07T17:39:16-04:00</updated>
@@ -228,7 +231,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://www.littlemittenpress.com/media/posts/4/slide_birds_bg.jpg" alt="" />
+                    <p><img src="https://www.littlemittenpress.com/media/posts/4/slide_birds_bg.jpg" class="type:primaryImage" alt="" /></p>
                 
     <h1 id="birds-of-a-letterbrabc-together">
       Birds of a Letter:<br>ABC Together!
@@ -240,22 +243,22 @@
     <div class="gallery" data-columns="2">
       <figure class="gallery__item">
       <a href="https://www.littlemittenpress.com/media/posts/4/gallery/Birds-Mockup-Cover.jpg" data-size="1080x720">
-        <img loading="lazy" src="https://www.littlemittenpress.com/media/posts/4/gallery/Birds-Mockup-Cover-thumbnail.jpg" height="512" width="768" alt="" />
+        <img loading="lazy" src="https://www.littlemittenpress.com/media/posts/4/gallery/Birds-Mockup-Cover-thumbnail.jpg" height="512" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://www.littlemittenpress.com/media/posts/4/gallery/Birds-Mockup-Page01.jpg" data-size="1080x720">
-        <img loading="lazy" src="https://www.littlemittenpress.com/media/posts/4/gallery/Birds-Mockup-Page01-thumbnail.jpg" height="512" width="768" alt="" />
+        <img loading="lazy" src="https://www.littlemittenpress.com/media/posts/4/gallery/Birds-Mockup-Page01-thumbnail.jpg" height="512" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://www.littlemittenpress.com/media/posts/4/gallery/Birds-Mockup-Page02.jpg" data-size="1080x720">
-        <img loading="lazy" src="https://www.littlemittenpress.com/media/posts/4/gallery/Birds-Mockup-Page02-thumbnail.jpg" height="512" width="768" alt="" />
+        <img loading="lazy" src="https://www.littlemittenpress.com/media/posts/4/gallery/Birds-Mockup-Page02-thumbnail.jpg" height="512" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://www.littlemittenpress.com/media/posts/4/gallery/Birds-Mockup-Page03.jpg" data-size="1080x720">
-        <img loading="lazy" src="https://www.littlemittenpress.com/media/posts/4/gallery/Birds-Mockup-Page03-thumbnail.jpg" height="512" width="768" alt="" />
+        <img loading="lazy" src="https://www.littlemittenpress.com/media/posts/4/gallery/Birds-Mockup-Page03-thumbnail.jpg" height="512" width="768" alt="" >
       </a>
       
     </figure>
@@ -279,6 +282,7 @@
         </author>
         <link href="https://www.littlemittenpress.com/a-b-sea-creatures-an-astonishing-aquatic-alphabet.html"/>
         <id>https://www.littlemittenpress.com/a-b-sea-creatures-an-astonishing-aquatic-alphabet.html</id>
+        <media:content url="https://www.littlemittenpress.com/media/posts/3/slide_absea_bg.jpg" medium="image" />
             <category term="Books"/>
 
         <updated>2022-06-08T11:16:30-04:00</updated>
@@ -290,7 +294,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://www.littlemittenpress.com/media/posts/3/slide_absea_bg.jpg" alt="" />
+                    <p><img src="https://www.littlemittenpress.com/media/posts/3/slide_absea_bg.jpg" class="type:primaryImage" alt="" /></p>
                 
     <h1 id="a-b-sea-creaturesbran-astonishing-aquatic-alphabet">
       A B Sea Creatures:<br>An Astonishing Aquatic Alphabet!
@@ -302,22 +306,22 @@
     <div class="gallery" data-columns="2">
       <figure class="gallery__item">
       <a href="https://www.littlemittenpress.com/media/posts/3/gallery/ABSea-Mockup-Cover.jpg" data-size="1080x720">
-        <img loading="lazy" src="https://www.littlemittenpress.com/media/posts/3/gallery/ABSea-Mockup-Cover-thumbnail.jpg" height="512" width="768" alt="" />
+        <img loading="lazy" src="https://www.littlemittenpress.com/media/posts/3/gallery/ABSea-Mockup-Cover-thumbnail.jpg" height="512" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://www.littlemittenpress.com/media/posts/3/gallery/ABSea-Mockup-Page01.jpg" data-size="1080x720">
-        <img loading="lazy" src="https://www.littlemittenpress.com/media/posts/3/gallery/ABSea-Mockup-Page01-thumbnail.jpg" height="512" width="768" alt="" />
+        <img loading="lazy" src="https://www.littlemittenpress.com/media/posts/3/gallery/ABSea-Mockup-Page01-thumbnail.jpg" height="512" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://www.littlemittenpress.com/media/posts/3/gallery/ABSea-Mockup-Page02.jpg" data-size="1080x720">
-        <img loading="lazy" src="https://www.littlemittenpress.com/media/posts/3/gallery/ABSea-Mockup-Page02-thumbnail.jpg" height="512" width="768" alt="" />
+        <img loading="lazy" src="https://www.littlemittenpress.com/media/posts/3/gallery/ABSea-Mockup-Page02-thumbnail.jpg" height="512" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://www.littlemittenpress.com/media/posts/3/gallery/ABSea-Mockup-Page03.jpg" data-size="1080x720">
-        <img loading="lazy" src="https://www.littlemittenpress.com/media/posts/3/gallery/ABSea-Mockup-Page03-thumbnail.jpg" height="512" width="768" alt="" />
+        <img loading="lazy" src="https://www.littlemittenpress.com/media/posts/3/gallery/ABSea-Mockup-Page03-thumbnail.jpg" height="512" width="768" alt="" >
       </a>
       
     </figure>
@@ -356,7 +360,7 @@
             <![CDATA[
                 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://www.littlemittenpress.com/media/posts/2/learning-things-leaf.png" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://www.littlemittenpress.com/media/posts/2/responsive/learning-things-leaf-xs.png 384w ,https://www.littlemittenpress.com/media/posts/2/responsive/learning-things-leaf-sm.png 600w ,https://www.littlemittenpress.com/media/posts/2/responsive/learning-things-leaf-md.png 768w ,https://www.littlemittenpress.com/media/posts/2/responsive/learning-things-leaf-lg.png 1200w ,https://www.littlemittenpress.com/media/posts/2/responsive/learning-things-leaf-xl.png 1600w"  height="123" width="409" alt="Learning THINGS" />
+      <img loading="lazy" src="https://www.littlemittenpress.com/media/posts/2/learning-things-leaf.png" height="123" width="409" alt="Learning THINGS"  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://www.littlemittenpress.com/media/posts/2/responsive/learning-things-leaf-xs.png 384w ,https://www.littlemittenpress.com/media/posts/2/responsive/learning-things-leaf-sm.png 600w ,https://www.littlemittenpress.com/media/posts/2/responsive/learning-things-leaf-md.png 768w ,https://www.littlemittenpress.com/media/posts/2/responsive/learning-things-leaf-lg.png 1200w ,https://www.littlemittenpress.com/media/posts/2/responsive/learning-things-leaf-xl.png 1600w">
       
     </figure>
 
@@ -396,11 +400,11 @@
             <![CDATA[
                 <h1>An independent Toronto-based publisher of mischievous, creative and thoughtful children’s books.</h1>
 <p>Our name comes from a certain three year old, who, despite it being the coldest time of the Canadian winter, continually asks if she could wear her ‘little mittens.’ And yes, a picture book is in the works about the eternal struggle between a daddy and his stubborn daughter.</p>
-<figure class="post__image"><img loading="lazy"  src="https://www.littlemittenpress.com/media/posts/1/about-img-05.jpg" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://www.littlemittenpress.com/media/posts/1/responsive/about-img-05-xs.jpg 384w ,https://www.littlemittenpress.com/media/posts/1/responsive/about-img-05-sm.jpg 600w ,https://www.littlemittenpress.com/media/posts/1/responsive/about-img-05-md.jpg 768w ,https://www.littlemittenpress.com/media/posts/1/responsive/about-img-05-lg.jpg 1200w ,https://www.littlemittenpress.com/media/posts/1/responsive/about-img-05-xl.jpg 1600w"  alt="" width="945" height="650"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://www.littlemittenpress.com/media/posts/1/about-img-05.jpg" alt="" width="945" height="650" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://www.littlemittenpress.com/media/posts/1/responsive/about-img-05-xs.jpg 384w ,https://www.littlemittenpress.com/media/posts/1/responsive/about-img-05-sm.jpg 600w ,https://www.littlemittenpress.com/media/posts/1/responsive/about-img-05-md.jpg 768w ,https://www.littlemittenpress.com/media/posts/1/responsive/about-img-05-lg.jpg 1200w ,https://www.littlemittenpress.com/media/posts/1/responsive/about-img-05-xl.jpg 1600w"></figure>
 <p><strong><a href="http://www.craigmacnaughton.com">Craig Macnaughton</a></strong> is author, illustrator, picture book maker and the founder of Little Mitten Press. He's also is a stay-at-home-parent, fine artist and film buff. "A B Sea Creatures" was launched in October 2019, with "Birds of a Letter", "26 Bugs" and "R is for Rainforests" following, with many picture books on the way!</p>
 <p>Also a budding chef, graphic designer and award-winning filmmaker, Craig is a member of <a href="https://www.12x12challenge.com/">Julie Hedlund’s 12x12 Challenge</a>, <a href="https://canadaeast.scbwi.org/">SCBWI Canada East</a> and <a href="https://www.canscaip.org/">CANSCAIP</a> (Canadian Society of Children's Authors, Illustrators and Performers).</p>
 <p>Craig lives in Toronto with his wife and two kids.</p>
-<figure class="post__image"><img loading="lazy"  src="https://www.littlemittenpress.com/media/posts/1/about-img.jpg" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://www.littlemittenpress.com/media/posts/1/responsive/about-img-xs.jpg 384w ,https://www.littlemittenpress.com/media/posts/1/responsive/about-img-sm.jpg 600w ,https://www.littlemittenpress.com/media/posts/1/responsive/about-img-md.jpg 768w ,https://www.littlemittenpress.com/media/posts/1/responsive/about-img-lg.jpg 1200w ,https://www.littlemittenpress.com/media/posts/1/responsive/about-img-xl.jpg 1600w"  alt="" width="945" height="650"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://www.littlemittenpress.com/media/posts/1/about-img.jpg" alt="" width="945" height="650" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://www.littlemittenpress.com/media/posts/1/responsive/about-img-xs.jpg 384w ,https://www.littlemittenpress.com/media/posts/1/responsive/about-img-sm.jpg 600w ,https://www.littlemittenpress.com/media/posts/1/responsive/about-img-md.jpg 768w ,https://www.littlemittenpress.com/media/posts/1/responsive/about-img-lg.jpg 1200w ,https://www.littlemittenpress.com/media/posts/1/responsive/about-img-xl.jpg 1600w"></figure>
             ]]>
         </content>
     </entry>
